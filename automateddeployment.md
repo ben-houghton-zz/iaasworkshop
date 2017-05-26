@@ -1,4 +1,4 @@
-## Build Architecture Using Scripts and Templates
+# Build Architecture Using Scripts and Templates
 
 Investigate template structure https://github.com/mspnp/reference-architectures/tree/master/virtual-machines/multi-vm
 
