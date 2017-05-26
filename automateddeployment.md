@@ -1,5 +1,8 @@
 # Build Architecture Using Scripts and Templates
 
+# Azure Quickstart Templates
+https://github.com/Azure/azure-quickstart-templates
+
 Investigate template structure https://github.com/mspnp/reference-architectures/tree/master/virtual-machines/multi-vm
 
 
