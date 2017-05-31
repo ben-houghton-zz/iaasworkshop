@@ -8,8 +8,9 @@ az login
 
 az group create --name benhovm-rg --location westeurope
 
-az vm create `  --resource-group benhovm-rg `  
-  --name myVM --image win2016datacenter `  
+az vm create `  
+  --resource-group benhovm-rg `  
+  --name benho-vm1 --image win2016datacenter `  
   --admin-username azureuser `  
   --admin-password myPassword12
 
