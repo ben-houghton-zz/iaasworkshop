@@ -26,7 +26,8 @@
 	- 128GB Data disk - no caching
 	- Use customscriptextensions to install MSFT AV
 	- Use DSC extension to configure IIS
-		-Download https://raw.githubusercontent.com/mspnp/reference-architectures/master/virtual-machines/multi-vm/extensions/windows/iisaspnet.ps1.zip
+		-Download 
+		https://raw.githubusercontent.com/mspnp/reference-architectures/master/virtual-machines/multi-vm/extensions/windows/iisaspnet.ps1.zip
 		- Supply as parameter
 		- Module-qualified Name - iisaspnet.ps1\iisaspnet
 		- Version 2.20
